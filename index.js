@@ -14,7 +14,7 @@ const StoryblokClient = require('storyblok-node-client');
 // 2. Initialize the client with the private key 
 // from your space dashboard at https://app.storyblok.com
 let Storyblok = new StoryblokClient({
-  privateToken: 'eRJlazIzZ47h1Q3mTr4Vygtt',
+  privateToken: 'Wnv3X62MCetGZ7TVog32vAtt',
   cache: {
     type: 'memory'
   }
